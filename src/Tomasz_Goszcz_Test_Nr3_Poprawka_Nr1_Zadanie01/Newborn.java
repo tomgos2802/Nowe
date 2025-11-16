@@ -200,7 +200,10 @@ public class Newborn {
     }
 
     @Override
+
     public String toString() {
         return "{" + name + " urodzony(a): " + date + ", " + height + "cm}";
     }
+
+    int a = 0;
 }
