@@ -28,7 +28,7 @@ public class Main {
 
         System.out.println("DUPA");
         System.out.println("adas");
-        System.out.println("kolejna zmiana");
+        System.out.println("DRUGA");
 
 
     }
