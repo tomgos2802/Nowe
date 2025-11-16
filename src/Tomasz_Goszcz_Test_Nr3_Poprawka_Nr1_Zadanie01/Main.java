@@ -27,6 +27,7 @@ public class Main {
         System.out.println("\nMamy, które urodziły bliźnięta: " + Mother.findMotherWithTwins(newbornList));
 
         System.out.println("DUPA");
+        System.out.println("adas");
 
 
     }
