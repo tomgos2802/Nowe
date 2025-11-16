@@ -26,6 +26,8 @@ public class Main {
 //        e) Znajdz matki które urodziły bliźnięta.
         System.out.println("\nMamy, które urodziły bliźnięta: " + Mother.findMotherWithTwins(newbornList));
 
+        System.out.println("DUPA");
+
 
     }
 }
